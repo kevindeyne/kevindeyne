@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world 👋
+
+I'm a software engineer (he/him) with a passion for web, java, kotlin and writing. I always dabble in several side-projects (some in private repos, sorry).
+
+Currently working on Arduina, a tool that allows for more efficient QA end-to-end testing.
 
 <!--
 **kevindeyne/kevindeyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
