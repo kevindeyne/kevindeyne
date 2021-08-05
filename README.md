@@ -4,7 +4,7 @@ I'm a software engineer (he/him) with a passion for web, java, kotlin and writin
 
 Currently working on:
 - 💭 A Java deep dive video series: https://bit.ly/3CiQUWp
-- ✨ Medusa (active development), a modular front-end framework for Java: https://github.com/medusa-ui
+- ✨ Medusa (active development), a modular real-time micro-frontend framework in HTML and Java: https://github.com/medusa-ui
 - 🔧 Vardøgr (maintenance), a tool to generate test data based on real data: https://github.com/kevindeyne/vardogr
 
 <!--
