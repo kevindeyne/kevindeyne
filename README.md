@@ -2,7 +2,10 @@
 
 I'm a software engineer (he/him) with a passion for web, java, kotlin and writing. I always dabble in several side-projects (some in private repos, sorry).
 
-Currently working on a Java deep dive course and maintaining Vardøgr, a tool to generate test data.
+Currently working on:
+- 💭 A Java deep dive video series: https://bit.ly/3CiQUWp
+- ✨ Medusa (active development), a modular front-end framework for Java: https://github.com/medusa-ui
+- 🔧 Vardøgr (maintenance), a tool to generate test data based on real data: https://github.com/kevindeyne/vardogr
 
 <!--
 **kevindeyne/kevindeyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
